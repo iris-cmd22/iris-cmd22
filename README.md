@@ -4,8 +4,6 @@
 Computer engeenering student @ Università degli Studi di Napoli "Federico II"
 
 > "Un sogno sembra un sogno fino a quando non si comincia a lavorarci. E allora può diventare qualcosa di infinitamente più grande.” Adriano Olivetti
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cristina-carleo-ab38b3266/) 
