@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Computer engeenering student @ Università degli Studi di Napoli "Federico II"
+MSc Computer engineering student @ Università degli Studi di Napoli "Federico II"
 
 > "Un sogno sembra un sogno fino a quando non si comincia a lavorarci. E allora può diventare qualcosa di infinitamente più grande.” Adriano Olivetti
 
