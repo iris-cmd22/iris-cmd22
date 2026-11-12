@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
+PhD Computer Science @ Gran Sasso Science Institute (GSSI)
 MSc Computer engineering student @ Università degli Studi di Napoli "Federico II"
 
 > "Il termine utopia è la maniera più comoda per liquidare quello che non si ha voglia, capacità, o coraggio di fare. Un sogno sembra un sogno fino a quando non si comincia da qualche parte, solo allora diventa un proposito, cioè qualcosa di infinitamente
